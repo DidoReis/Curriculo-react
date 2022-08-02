@@ -2,7 +2,7 @@
   --bg: #101115;
   --bg-panel: #3d3b3c;
   --bg-panel-second: #1f1e1f;
-  --color-headings: #85879d;
+  --color-headings: #a8a9af;
   --color-text: #fff;
   --main-color: #ff4100;
   --main-hover-color: #eb4d17;
@@ -11,7 +11,7 @@
 
 body {
   background-color: var(--bg);
-  color: #85879d;
+  color: var(--color-headings);
   line-height: 1.7em;
   font-family: "Roboto", sans-serif;
 

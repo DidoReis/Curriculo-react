@@ -46,8 +46,8 @@ export default function Experience() {
           Manutenção em computadores e softwares, cabeamento, configurações de
           rede, planejamento de campanhas de marketing, gerenciamento de redes
           sociais, manutenção e criar de sites, Html CSS e Javascript,
-          planejamento de comunicação, materiais gráficos, criação e edição de
-          vídeos, criação de identidade visual.
+          planejamento de comunicação, materiais gráficos, criar e editar vídeos
+          e identidade visual.
         </p>
         <br />
       </div>
