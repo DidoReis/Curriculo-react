@@ -1,0 +1,12 @@
+.contact-info {
+  font-size: 0.9rem;
+}
+
+.contact-info a {
+  color: var(--color-text);
+}
+.contact-info img {
+  filter: invert(1);
+  height: 16px;
+  padding-right: 10px;
+}

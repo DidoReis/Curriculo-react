@@ -1,0 +1,69 @@
+:root {
+  --bg: #101115;
+  --bg-panel: #3d3b3c;
+  --bg-panel-second: #1f1e1f;
+  --color-headings: #85879d;
+  --color-text: #fff;
+  --main-color: #ff4100;
+  --main-hover-color: #eb4d17;
+  --bg-container: #1f1e1f;
+}
+
+body {
+  background-color: var(--bg);
+  color: #85879d;
+  line-height: 1.7em;
+  font-family: "Roboto", sans-serif;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+@media (max-width: 991px) {
+  body {
+    font-size: 13px;
+  }
+  label {
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 42px;
+    height: 20px;
+    background: grey;
+    float: right;
+    border-radius: 100px;
+    position: relative;
+    margin-top: -8px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .content h3 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  body {
+    font-size: 0.9rem;
+  }
+  .content h3 {
+    font-size: 1.05rem;
+  }
+  label {
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 42px;
+    height: 20px;
+    background: grey;
+    float: right;
+    border-radius: 100px;
+    position: relative;
+    margin-top: -4px;
+  }
+}

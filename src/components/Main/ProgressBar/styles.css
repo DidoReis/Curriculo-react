@@ -1,0 +1,7 @@
+.bg-progress {
+  background-color: var(--main-color);
+}
+.section {
+  background: var(--bg-panel);
+  border: 1px solid rgba(255, 255, 255, 0.01);
+}

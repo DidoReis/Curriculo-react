@@ -1,0 +1,5 @@
+.sidebar {
+  background: var(--bg-panel);
+  position: sticky;
+  top: 20px;
+}
