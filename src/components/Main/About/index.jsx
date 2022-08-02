@@ -13,6 +13,8 @@ export default function About() {
         meu conhecimento em HTML, CSS, SASS, Javascript,Typescript PHP, MySQL,
         Bootstrap 4 & Design responsivo, Ajax, JQuery, IONIC, ES6, ES7, ReactJS,
         NodeJS, NextJS e Python.
+        <br />
+        <p>Inglês Intermediário</p>
       </p>
     </>
   );
