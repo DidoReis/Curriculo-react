@@ -22,9 +22,9 @@ export default function Experience() {
         </div>
         <p id="experience">
           Gerenciar plataformas de e-commerce, Tray, Loja Integrada e Mercado
-          Livre. Ações de marketing, manutenção e criação de lojas em redes
-          sociais, Facebook, Instagram. Criação, atualização de lista de
-          produtos, banco de imagens e atendimento ao cliente.
+          Livre. Ações de marketing, criar e gerenciar lojas em redes sociais,
+          Facebook, Instagram. Criar e atualizar a lista de produtos, banco de
+          imagens e atendimento ao cliente.
         </p>
         <br />
       </div>
@@ -62,7 +62,7 @@ export default function Experience() {
         </div>
         <div id="experience" className="col-6 text-end">
           <span id="experience" className="tiny-super">
-            2016 - 2017
+            2009 - 2015
           </span>
         </div>
         <p>
@@ -70,7 +70,7 @@ export default function Experience() {
           ofcdeskcad, ofdeskidc, ofcdekMEP (hidráulica e Elétrica), Sketchup,
           TigreCAD, Microsoft Office, Windows Server Windows, MacOS,
           configuração de VPN, Firewall, SQL, análise Google ADWORDS, pesquisa
-          de palavras chaves, criação de anúncios, monitoramento de resultados,
+          de palavras chaves, criar anúncios, monitoramento de resultados,
           condução, gestão e execução de operações diárias de backup, cotação,
           compra de softwares e periféricos para computadores e servidores
         </p>
